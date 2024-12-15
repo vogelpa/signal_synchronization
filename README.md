@@ -31,14 +31,15 @@ The program settings should be defined in the `config.yaml` file. This file spec
 To run the main synchronization pipeline, use the following command:
 ```bash
 python main.py --config config.yaml
+```
 
 ## Folder Structure
-The pipeline_steps folder includes the modules for the single synchronization steps and in the utils folder there are functions for data management and plotting.
+The **pipeline_steps** folder includes the modules for the single synchronization steps and in the utils folder there are functions for data management and plotting.
 
-The error_quantification folder contains files to calculate the error and also the test run script. Just call
+The **error_quantification** folder contains files to calculate the error and also the test run script. Just call
 ```bash
 python run_tests.py
 python error_quantification.py
-
-The data folder includes some example data and also the drifted datasets used for the test runs.
-The various folder contains utils used to extract data from the SCAI-SENSEI V2 dataset. It might be helpful for some, but can be ignored if just the pipeline wants to be used.   
+```
+The **data** folder includes some example data and also the drifted datasets used for the test runs.
+The **various** folder contains utils used to extract data from the SCAI-SENSEI V2 dataset. It might be helpful for some, but can be ignored if just the pipeline wants to be used.   
