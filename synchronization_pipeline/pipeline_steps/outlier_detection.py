@@ -1,4 +1,3 @@
-# event_detection/outlier_detection.py
 from sklearn.neighbors import LocalOutlierFactor
 
 def detect_outliers(data, signal_column, n_neighbors=200):

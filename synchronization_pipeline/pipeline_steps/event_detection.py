@@ -1,4 +1,3 @@
-# event_detection/event_identification.py
 def identify_events(data, outlier_flags, time_column, threshold=0.5, min_outlier_percentage=0.6):
     events = []
     event_id = 1

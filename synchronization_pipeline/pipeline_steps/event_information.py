@@ -1,4 +1,3 @@
-# event_detection/event_statistics.py
 def extract_event_information(data, events, signal_column, normalization_window_duration, time_column='time'):
     event_stats = []
     for event in events:

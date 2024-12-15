@@ -1,4 +1,3 @@
-# event_detection/event_comparison.py
 import numpy as np
 from scipy.signal import correlate
 from fastdtw import fastdtw

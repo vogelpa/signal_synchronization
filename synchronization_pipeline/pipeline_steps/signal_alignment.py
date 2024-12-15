@@ -1,4 +1,3 @@
-# event_detection/signal_alignment.py
 import pandas as pd
 
 def align_signals(df1, df2, comparison_results, sensor1, sensor2, dtw_distance_threshold, time_column='time'):
