@@ -1,0 +1,35 @@
+# config.yaml
+
+# Dynamic settings
+
+# Path to the file containing the reference signal
+reference_file: 'path/to/file.csv'
+# Path to the file conatining the signal to be aligned
+file_to_align: 'path/to/file.csv'
+
+# Supported sensors: cosinuss, corsano, vivalink, sensomative
+sensor_name_reference: 'cosinuss'       # Name of sensor of the reference file
+sensor_name_align: 'sensomative'        # Name of sensor of the file to align
+
+# Plotting
+plotting: True                          # Plot all the signals with the detected events annotated int the input signals
+scaling_factor_reference: 100           # Scaling factor for the plotting first file
+scaling_factor_align: 1.0               # Scaling factor for the second file
+
+# Static settings
+
+# LOF number_neighbors parameter
+outlier_neighbors_cosinuss: 400         # default: 400
+outlier_neighbors_corsano: 200          # default: 200
+outlier_neighbors_vivalink: 50          # default: 50
+outlier_neighbors_sensomative: 20       # default: 20
+
+# Various parameters
+min_time_event: 0.5                     # minimum time (in s) an event must last
+min_outlier_fraction_event: 0.5         # minimum fraction of outliers in an event
+max_time_gap_events: 2                  # maximum time gap (in s) between two events to be considered possible matches
+dtw_distance_threshold_accelerator: 150 # Threshold for the DTW distance between two events (acc-acc) to be considered a match
+dtw_distance_threshold_sensomative: 150 # Threshold for the DTW distance between two events (acc-sensomative) to be considered a match
+normalization_window_duration: 10       # Time over which data is normalized for DTW comparison
+save_output_files: True                 # Save the aligned file
+output_folder_path: './output'          # Folder where the output files will be saved

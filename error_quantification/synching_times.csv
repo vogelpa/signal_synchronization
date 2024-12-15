@@ -1,0 +1,29 @@
+user,sensor,filename,Start synching point,End synching point,3rd standing up,Notes
+sensei-103,corsano_wrist_acc,start_2022-11-08.csv,1667897869.281,1667897889.531,1667897895.312,
+sensei-103,corsano_wrist_acc,end_2022-11-08.csv,1667900319.937,1667900340.093,,end is 3rd sitting down
+sensei-103,cosinuss_ear_acc_x_acc_y_acc_z,end_K41C.9ZA0_2022-11-07_10-44-13_acc_x_acc_y_acc_z.csv,1667900320.162,1667900340.222,,
+sensei-103,sensomative,start_sensei_103_2022-11-08_09-57-41-307_mod221207SA.csv,1667897870.598,1667897890.923,,end is 3rd sitting down
+sensei-103,sensomative,end_sensei_103_2022-11-08_09-57-41-307_mod221207SA.csv,1667900320.443,1667900340.553,,end is 3rd sitting down
+sensei-103,vivalnk_vv330_acceleration,start_20221108_0800.csv,1667897874.074,1667897894.474,1667897900.274,
+sensei-178,corsano_wrist_acc,start_2022-11-08.csv,1667910880.125,1667910900.031,1667910906.125,
+sensei-178,corsano_wrist_acc,end_2022-11-08.csv,1667912871.125,1667912891.312,,end is 3rd sitting down
+sensei-178,sensomative,start_user_178_2022-11-08_13-30-38-951[1].csv,1667910880.739,1667910900.664,,
+sensei-178,sensomative,end_user_178_2022-11-08_13-30-38-951[1].csv,1667912870.682,1667912890.807,,
+sensei-178,vivalnk_vv330_acceleration,end_20221108_1300.csv,1667912871.416,1667912891.416,,end is 3rd sitting down
+sensei-188,corsano_wrist_acc,start_2022-11-16.csv,1668606348.781,1668606368.718,1668606374.718,
+sensei-188,corsano_wrist_acc,end_2022-11-16.csv,1668609019.25,1668609038.781,1668609045.312,
+sensei-188,cosinuss_ear_acc_x_acc_y_acc_z,start_K41C.9ZA0_2022-11-15_13-46-59_acc_x_acc_y_acc_z.csv,1668606350.216,1668606370.096,1668606376.196,
+sensei-188,cosinuss_ear_acc_x_acc_y_acc_z,end_K41C.9ZA0_2022-11-15_13-46-59_acc_x_acc_y_acc_z.csv,1668609020.662,1668609040.182,1668609046.682,
+sensei-188,sensomative,start_user_188_2022-11-16_14-30-48-383[1].csv,1668606349.134,1668606368.978,,
+sensei-188,sensomative,end_user_188_2022-11-16_14-30-48-383[1].csv,1668609019.751,1668609039.189,,
+sensei-223,corsano_wrist_acc,end_2022-11-14.csv,1668441560.312,1668441579.875,,end is 3rd sit down
+sensei-223,cosinuss_ear_acc_x_acc_y_acc_z,end_K41C.9ZA0_2022-11-07_10-44-13_acc_x_acc_y_acc_z.csv,1668441560.419,1668441579.969,,end is 3rd sit down
+sensei-223,sensomative,start_user_223_2022-11-14_15-32-35-310[1].csv,1668437399.539,1668437419.266,,
+sensei-223,sensomative,end_user_223b_2022-11-14_16-39-49-858[1].csv,1668441559.506,1668441579.233,,
+sensei-223,vivalnk_vv330_acceleration,end_20221114_1500.csv,1668441560.703,1668441580.303,,end is 3rd sit down
+sensei-237,corsano_wrist_acc,start_2022-12-02.csv,1669970668.718,1669970688.718,,end is 3rd sit down
+sensei-237,corsano_wrist_acc,end_2022-12-02.csv,1669973108.593,1669973128.75,1669973134.25,
+sensei-237,cosinuss_ear_acc_x_acc_y_acc_z,start_K41C.9ZA0_2022-12-01_10-35-02_acc_x_acc_y_acc_z.csv,1669970670.132,1669970690.172,,end is 3rd sit down
+sensei-237,cosinuss_ear_acc_x_acc_y_acc_z,end_K41C.9ZA0_2022-12-01_10-35-02_acc_x_acc_y_acc_z.csv,1669973115.056,1669973135.226,1669973140.716,
+sensei-237,sensomative,start_user_237_2022-12-02_09-14-57-976[1].csv,1669970668.695,1669970688.82,,
+sensei-237,sensomative,end_user_237_2022-12-02_09-14-57-976[1].csv,1669973113.685,1669973133.796,,

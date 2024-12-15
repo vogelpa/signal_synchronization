@@ -1,0 +1,240 @@
+{
+    "sensei-103": [
+        {
+            "reference_file": "../data/sensei-103/cosinuss_ear_acc_x_acc_y_acc_z/end_K41C.9ZA0_2022-11-07_10-44-13_acc_x_acc_y_acc_z.csv",
+            "sensor_name_reference": "cosinuss",
+            "alignments": [
+                {
+                    "sensor_name_align": "corsano",
+                    "files_folder": "../data/sensei-103/corsano_wrist_acc/drifted/end"
+                },
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-103/sensomative/drifted/end"            
+                },
+                {
+                    "sensor_name_align": "vivalink",
+                    "files_folder": "../data/sensei-103/vivalnk_vv330_acceleration/drifted/end"            
+                }
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-103/corsano_wrist_acc/end_2022-11-08_synched_to_cosinuss.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-103/sensomative/drifted/end"   
+                },
+                {
+                    "sensor_name_align": "vivalink",
+                    "files_folder": "../data/sensei-103/vivalnk_vv330_acceleration/drifted/end"   
+                }            
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-103/corsano_wrist_acc/start_2022-11-08.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-103/sensomative/drifted/start"   
+                },
+                {
+                    "sensor_name_align": "vivalink",
+                    "files_folder": "../data/sensei-103/vivalnk_vv330_acceleration/drifted/start"   
+                }            
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-103/vivalnk_vv330_acceleration/start_20221108_0800_synched_to_corsano.csv",
+            "sensor_name_reference": "vivalink",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-103/sensomative/drifted/start"   
+                }           
+            ]
+        }
+    ],
+    "sensei-178": [
+        {
+            "reference_file": "../data/sensei-178/corsano_wrist_acc/start_2022-11-08.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-178/sensomative/drifted/start"
+                }
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-178/corsano_wrist_acc/end_2022-11-08.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-178/sensomative/drifted/end"   
+                },
+                {
+                    "sensor_name_align": "vivalink",
+                    "files_folder": "../data/sensei-178/vivalnk_vv330_acceleration/drifted/end"   
+                }            
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-178/vivalnk_vv330_acceleration/end_20221108_1300_synched_to_corsano.csv",
+            "sensor_name_reference": "vivalink",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-178/sensomative/drifted/end"
+                }
+            ]
+        }
+    ],
+    "sensei-188": [
+        {
+            "reference_file": "../data/sensei-188/cosinuss_ear_acc_x_acc_y_acc_z/start_K41C.9ZA0_2022-11-15_13-46-59_acc_x_acc_y_acc_z.csv",
+            "sensor_name_reference": "cosinuss",
+            "alignments": [
+                {
+                    "sensor_name_align": "corsano",
+                    "files_folder": "../data/sensei-188/corsano_wrist_acc/drifted/start"
+                },
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-188/sensomative/drifted/start"
+                }                
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-188/cosinuss_ear_acc_x_acc_y_acc_z/end_K41C.9ZA0_2022-11-15_13-46-59_acc_x_acc_y_acc_z.csv",
+            "sensor_name_reference": "cosinuss",
+            "alignments": [
+                {
+                    "sensor_name_align": "corsano",
+                    "files_folder": "../data/sensei-188/corsano_wrist_acc/drifted/end"
+                },
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-188/sensomative/drifted/end"
+                }                
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-188/corsano_wrist_acc/start_2022-11-16_synched_to_cosinuss.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-188/sensomative/drifted/start"
+                }
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-188/corsano_wrist_acc/end_2022-11-16_synched_to_cosinuss.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-188/sensomative/drifted/end"
+                }
+            ]
+        }
+    ],
+    "sensei-223": [
+        {
+            "reference_file": "../data/sensei-223/cosinuss_ear_acc_x_acc_y_acc_z/end_K41C.9ZA0_2022-11-07_10-44-13_acc_x_acc_y_acc_z.csv",
+            "sensor_name_reference": "cosinuss",
+            "alignments": [
+                {
+                    "sensor_name_align": "corsano",
+                    "files_folder": "../data/sensei-223/corsano_wrist_acc/drifted/end"
+                },
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-223/sensomative/drifted/end"
+                },
+                {
+                    "sensor_name_align": "vivalink",
+                    "files_folder": "../data/sensei-223/vivalnk_vv330_acceleration/drifted/end"
+                }                  
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-223/corsano_wrist_acc/end_2022-11-14_synched_to_cosinuss.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-223/sensomative/drifted/end"
+                },
+                {
+                    "sensor_name_align": "vivalink",
+                    "files_folder": "../data/sensei-223/vivalnk_vv330_acceleration/drifted/end"
+                }                
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-223/vivalnk_vv330_acceleration/end_20221114_1500_synched_to_cosinuss.csv",
+            "sensor_name_reference": "vivalink",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-223/sensomative/drifted/end"
+                }
+            ]
+        }
+    ],
+    "sensei-237": [
+        {
+            "reference_file": "../data/sensei-237/cosinuss_ear_acc_x_acc_y_acc_z/start_K41C.9ZA0_2022-12-01_10-35-02_acc_x_acc_y_acc_z.csv",
+            "sensor_name_reference": "cosinuss",
+            "alignments": [
+                {
+                    "sensor_name_align": "corsano",
+                    "files_folder": "../data/sensei-237/corsano_wrist_acc/drifted/start"
+                },
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-237/sensomative/drifted/start"
+                }               
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-237/cosinuss_ear_acc_x_acc_y_acc_z/end_K41C.9ZA0_2022-12-01_10-35-02_acc_x_acc_y_acc_z.csv",
+            "sensor_name_reference": "cosinuss",
+            "alignments": [
+                {
+                    "sensor_name_align": "corsano",
+                    "files_folder": "../data/sensei-237/corsano_wrist_acc/drifted/end"
+                },
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-237/sensomative/drifted/end"
+                }                 
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-237/corsano_wrist_acc/start_2022-12-02_synched_to_cosinuss.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-237/sensomative/drifted/start"
+                }
+            ]
+        },
+        {
+            "reference_file": "../data/sensei-237/corsano_wrist_acc/end_2022-12-02_synched_to_cosinuss.csv",
+            "sensor_name_reference": "corsano",
+            "alignments": [
+                {
+                    "sensor_name_align": "sensomative",
+                    "files_folder": "../data/sensei-237/sensomative/drifted/end"
+                }
+            ]
+        }
+    ]
+}
