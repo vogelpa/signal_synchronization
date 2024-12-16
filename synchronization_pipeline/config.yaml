@@ -8,8 +8,8 @@ reference_file: 'path/to/file.csv'
 file_to_align: 'path/to/file.csv'
 
 # Supported sensors: cosinuss, corsano, vivalink, sensomative
-sensor_name_reference: 'cosinuss'       # Name of sensor of the reference file
-sensor_name_align: 'sensomative'        # Name of sensor of the file to align
+sensor_name_reference: 'sensor_name'       # Name of sensor of the reference file
+sensor_name_align: 'sensor_name'        # Name of sensor of the file to align
 
 # Plotting
 plotting: True                          # Plot all the signals with the detected events annotated int the input signals

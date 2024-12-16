@@ -1,0 +1,7 @@
+Regarding the naming in the folders:
+In the sensor folders (corsano_wrist_acc, sensomative, vivalnk_vv300_acceleration):
+    start resp. end_*.csv refers to the original 90sec snippet extracted from the SCAI-SENSEI V2 data.
+    start resp. end_*_synched_to_*.csv refers to the manually aligned ground truth
+
+In the 'drifted' subfolders located in the sensor folders, the artificially drifted dataset can be found.
+Everything in the 'aligned_to_*' subfolders within the 'drifted' subfolder is output from the test runs.
